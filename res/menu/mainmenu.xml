@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/save" android:title="Save" android:icon="@drawable/ic_menu_save"></item>
+<item android:id="@+id/send" android:title="Share" android:icon="@drawable/ic_menu_share"></item> 
+<item android:id="@+id/background" android:title="Set As" android:icon="@drawable/ic_menu_set_as"></item>
+<item android:title="Clear" android:id="@+id/clear" android:icon="@drawable/ic_menu_clear"></item><item android:id="@+id/cancel" android:title="Cancel" android:icon="@drawable/ic_menu_close_clear_cancel" ></item>
+
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Kiss Me</string>
+    <array name="kiss_image">
+    	<item>@drawable/kiss35</item>
+    	<item>@drawable/kiss34</item>
+    	<item>@drawable/kiss33</item>
+    	<item>@drawable/kiss32</item>
+    	<item>@drawable/kiss31</item>
+    	<item>@drawable/kiss30</item>
+    	<item>@drawable/kiss29</item>
+    	<item>@drawable/kiss28</item>
+    	<item>@drawable/kiss27</item>
+    	<item>@drawable/kiss26</item>
+    	<item>@drawable/kiss25</item>
+    	<item>@drawable/kiss24</item>
+    	<item>@drawable/kiss23</item>
+    	<item>@drawable/kiss22</item>
+    	<item>@drawable/kiss21</item>
+    	<item>@drawable/kiss20</item>
+		<item>@drawable/kiss19</item>
+		<item>@drawable/kiss18</item>
+		<item>@drawable/kiss17</item>
+		<item>@drawable/kiss16</item>
+		<item>@drawable/kiss15</item>
+		<item>@drawable/kiss14</item>
+		<item>@drawable/kiss13</item>
+		<item>@drawable/kiss12</item>
+		<item>@drawable/kiss11</item>
+		<item>@drawable/kiss10</item>
+		<item>@drawable/kiss9</item>
+		<item>@drawable/kiss8</item>
+		<item>@drawable/kiss7</item>
+		<item>@drawable/kiss6</item>
+		<item>@drawable/kiss5</item>
+		<item>@drawable/kiss4</item>
+		<item>@drawable/kiss3</item>
+		<item>@drawable/kiss2</item>
+		<item>@drawable/kiss1</item>
+	</array>
+</resources>
