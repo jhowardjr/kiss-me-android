@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AdWhirlSDK_Android_2.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/AdWhirlSDK_Android_2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

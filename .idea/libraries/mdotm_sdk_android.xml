@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mdotm-sdk-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/mdotm-sdk-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
